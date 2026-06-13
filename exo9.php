@@ -10,7 +10,7 @@ $etudiants=[
     ],
      [
         "nom"=>"Oumou",
-        "note"=>25,
+        "note"=>12,
     ],
      [
         "nom"=>"Amadou",
