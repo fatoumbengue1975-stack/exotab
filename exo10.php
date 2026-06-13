@@ -8,7 +8,7 @@ $livres =[
 
      [
         "titre"=>"Madame Bovary",
-        "auteur"=>"Gustave Flaubert",
+        "auteur"=>"gustave  Flaubert",
         "disponible"=>true,
     ],
      [
